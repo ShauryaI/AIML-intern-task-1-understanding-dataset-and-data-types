@@ -1,5 +1,5 @@
 # AIML-intern-task-1-understanding-dataset-and-data-types
-First task to understand dataset and data types
+Data structure, types, and ML readiness of datasets.
 
 1. Titanic dataset is downloaded from Kaggle. Filename: Titanic-Dataset.csv
 2. Students Performance Dataset Filename: Student_performance_data _.csv
